@@ -2,7 +2,7 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Kayıt Ekranı](C:\Users\basib\Desktop\kodluyoruzilkrepo\olustur.png)
+![Kayıt Ekranı](https://github.com/ibrahimbas8/kodluyoruzilkrepo/blob/main/olustur.png)
 
 ## Installation
 
@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 License
 
-[MIT] (https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
